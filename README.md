@@ -6,6 +6,7 @@
 2. 软件要求：Python2/3(3理论可行，还没试) curl wget
 
 使用教程:
+
 打开脚本修改
 loginToken = ID,Token # dnspod密钥管理添加修改
 domain_1 = baidu.com # 你要使用的一级域名 如：baidu.com
